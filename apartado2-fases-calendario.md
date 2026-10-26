@@ -117,7 +117,7 @@ gantt
 | 4. Reporting | 01/02 | 05/02 | 5 | |
 | 5. Cierre | 08/02 | 10/02 | 3 | Más un re-escaneo de verificación el 15–16/03 (2 j). |
 
-### 2.2 Hitos y objetivos de cada fase
+### 2.2 Hitos y objetivos de cada fases
 
 | Fase | Objetivos | Hitos / entregables |
 |---|---|---|
